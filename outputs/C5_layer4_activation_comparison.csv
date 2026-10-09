@@ -1,0 +1,4 @@
+record_idx,ground_truth,b3_prediction,b3_correct,b3_confidence_pct,mean_abs_layer4_change
+777,Boxer,Boxer,True,99.99957084655762,0.8002035021781921
+1,Abyssinian,Bengal,False,94.9430763721466,0.7850787043571472
+1012,Abyssinian,Bengal,False,85.80565452575684,0.7505282759666443
