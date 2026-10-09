@@ -96,8 +96,8 @@ The results show that fine-tuning changes the model's internal feature responses
 The project is organized as follows:
 
 - `notebooks/Bagian_B_Eksperimen_Praktik.ipynb` — Complete executed notebook for B1–B5 and C5.
-- `reports/Bagian_A_Analisis_Konseptual.pdf` — Conceptual analysis.
-- `reports/Bagian_C_Laporan_Analisis.pdf` — Experimental results and discussion.
+- `reports/Bagian A - Analisis Konseptual.pdf` — Conceptual analysis.
+- `reports/Bagian C - Laporan & Analisis.pdf` — Experimental results and discussion.
 - `outputs/` — Training logs, configuration files, evaluation metrics, and figures.
 - `requirements.txt` — Python dependencies required to run the notebook.
 
